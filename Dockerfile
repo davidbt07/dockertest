@@ -1,5 +1,5 @@
 #Partir de una imagen
-FROM node:14
+FROM node:14.17
 
 #Espacio de trabajo
 WORKDIR /dockertest
